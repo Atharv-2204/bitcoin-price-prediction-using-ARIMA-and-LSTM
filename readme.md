@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction Framework
+# Bitcoin Price Prediction using ARIMA and LSTM
 
 A research-oriented forecasting framework for analyzing and predicting Bitcoin price movements using **Statistical Modeling Autoregressive Integrated Moving Average (ARIMA)** and **Deep Learning Long Short-term Memory (LSTM)**.
 The system compares model performance and evaluates their suitability for different time-series data characteristics.
